@@ -17,4 +17,3 @@ gracz wystrzeliwuje magiczny pocisk, który blokuje cel i unieruchamia go na 9 s
 czas odnowienia umiejętności 15 sekund
 
 
-<a href="https://freeimage.host/i/HHxR1mG"><img src="https://iili.io/HHxR1mG.md.gif" alt="HHxR1mG.md.gif" border="0"></a>
