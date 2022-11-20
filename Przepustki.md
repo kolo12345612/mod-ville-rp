@@ -29,3 +29,14 @@ czas odnowienia umiejętności 11 sekund
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/SrtQZMd/ezgif-3-0d10e38f52.gif" alt="ezgif-3-0d10e38f52" border="0"></a>
+
+
+`Magiczny ptak`
+
+gracz wystrzeliwuje magicznego ptaka, który zadaje 27 obrażeń
+
+
+czas odnowienia 11 sekund
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/zxYwt8g/ezgif-4-211fab1869.gif" alt="ezgif-4-211fab1869" border="0"></a>
