@@ -18,3 +18,14 @@ czas odnowienia umiejętności 15 sekund
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/GH4sHLt/ezgif-4-f86ff7e521.gif" alt="ezgif-4-f86ff7e521" border="0"></a>
+
+
+`Magiczna chmura`
+
+gracz strzela piorunem, który zadaje 19 obrażeń
+
+
+czas odnowienia umiejętności 11 sekund
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SrtQZMd/ezgif-3-0d10e38f52.gif" alt="ezgif-3-0d10e38f52" border="0"></a>
